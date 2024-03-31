@@ -4,9 +4,10 @@
 - 🙋‍♂️ I graduated from Hunan University of Technology and Business, Hunan, China with a B.S. degree in Jun. 2022 and currently pursuing a M.S. degree at Chongqing University, Chongqing, China.
 - 🌱 Research interest includes **Federated Learning, and Edge Intelligence**. I love algorithms, but I might want to go into development in the future, so I'm working hard! To learn C++
 - 👀 Please do not hesitate to contact me if you have any questions or seek cooperation.
-- 📧 Email: kt4ngw@163.com
+- 📧 Email: kt4ngw@gmail.com
 - 📌 Personal blog: https://kt4ngw.cn/ (temporarily inaccessible)
-- ✨ Progressing together, please!⚡⚡⚡
+- ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡
+- 👍 Last but not least, work hard and enjoy life!
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kt4ngw&theme=transparent"/>

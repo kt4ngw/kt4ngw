@@ -11,9 +11,8 @@
 
 
 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kt4ngw&theme=transparent"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt4ngw&theme=transparent" /> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kt4ngw&theme=transparent"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt4ngw&theme=transparent&hide=tex" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kt4ngw&layout=compact) 
 <!--
 **kt4ngw/kt4ngw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

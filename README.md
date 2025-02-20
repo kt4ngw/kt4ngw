@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kt4ngw&show_icons=true&count_private=true&theme=transparent" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kt4ngw&show_icons=true&count_private=true&theme=transparent&count_private=true" />
 👋 Hello, here is kt4ngw (Jian Tang).
 
 - 🙋‍♂️ I graduated from Hunan University of Technology and Business, Hunan, China with a B.S. degree in Jun. 2022 and currently pursuing a M.S. degree at Chongqing University, Chongqing, China.
@@ -24,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kt4ngw&show_icons=true&count_private=true&theme=transparent" />
 -->

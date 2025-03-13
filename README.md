@@ -3,7 +3,7 @@
 👋 Hello, here is kt4ngw (Jian Tang).
 
 - 🙋‍♂️I am a current M.S. student in the School of Big Data & Software at Chongqing University, Chongqing, China. Prior to Chongqing University, I received my B. S. degree in engineering in Jun. 2022 from Hunan University of Technology and Business.
-- 🌱 Current research interest includes **Federated Learning (FL), Edge Intelligence, and FL for LLM**, **I am currently seeking an opportunity to continue my academic research as well as pursue a PhD (25 Fall)**.
+- 🌱 Current research interest includes **Federated Learning (FL), Edge Intelligence, and FL for LLM**.
 - 👀 Please do not hesitate to contact me with any questions or seek cooperation.
 - 📧 Email: kt4ngw@gmail.com (Please state your affiliation and name and indicate your intention.)
 - 📌 Personal blog: https://kt4ngw.cn/ <!--(temporarily inaccessible)-->

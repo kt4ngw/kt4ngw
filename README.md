@@ -8,7 +8,7 @@
 - 📧 Email: kt4ngw@gmail.com (Please state your affiliation and name and indicate your intention.)
 - 📌 Personal blog: https://kt4ngw.cn/ <!--(temporarily inaccessible)-->
 - ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡
-- 👍 Last but not least, work hard and enjoy life!
+- 👍 Last but not least, to learn & to cope(that's my motto)!
 
 
 

@@ -7,7 +7,7 @@
 - 📧 Email: kt4ngw@163.com, kt4ngw@gmail.com(mainly). (Please state your affiliation and name and indicate your intention.)
 - 📌 Personal blog: https://kt4ngw.cn/ <!--(temporarily inaccessible)-->
 - ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡
-- 👍 Last but not least, to learn & to cope(that's my motto)!
+- 👍 Last but not least, to learn & to cope (that's my motto)!
 -  Notice: I am currently seeking opportunities to continue my research and pursue a PhD degree.
 
 

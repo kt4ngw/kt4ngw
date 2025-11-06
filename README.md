@@ -2,7 +2,7 @@
 👋 Hello, here is kt4ngw (Jian Tang).
 
 - 🙋‍♂️ M.S. Software Engineering, Chongqing University, Chongqing, China (Jun. 2025); B.S. Engineering, Hunan University of Technology and Business, Changsha, China (Jun. 2022)
-- 🌱 Current research interest includes **Federated Learning (FL), Edge Intelligence, and FL for LLM**.
+- 🌱 Current research interest includes **Federated Learning (FL), Edge Intelligence, FL for LLM, Network & System Security**.
 - 👀 Please do not hesitate to contact me with any questions or seek cooperation.
 - 📧 Email: kt4ngw@163.com, kt4ngw@gmail.com(mainly). (Please state your affiliation and name and indicate your intention.)
 - 📌 Personal blog: https://kt4ngw.cn/ <!--(temporarily inaccessible)-->

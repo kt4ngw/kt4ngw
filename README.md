@@ -5,7 +5,7 @@
 - 🌱 Current research interest includes **Federated Learning (FL), Edge Intelligence, FL for LLM, Network & System Security**.
 - 👀 Please do not hesitate to contact me with any questions or seek cooperation.
 - 📧 Email: kt4ngw@163.com, kt4ngw@gmail.com(mainly). (Please state your affiliation and name and indicate your intention.)
-- 📌 Personal blog: The domain name kt4ngw.cn expired on October 15, 2025. The current information is unrelated to me. The new website will be deployed during my doctoral program.
+- 📌 Personal blog: The domain name kt4ngw.cn expired on October 15, 2025. The current information is unrelated to me. The new website is https://kt4ngw.github.io/
 - ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡
 - 👍 Last but not least, to learn & to cope (that's my motto)!
 -  Notice: I am currently seeking opportunities to continue my research and pursue a PhD degree.

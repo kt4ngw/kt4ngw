@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kt4ngw&show_icons=true&theme=vue&cache_seconds=14400&count_private=True&flag-india" />
 👋 Hello, here is kt4ngw (Jian Tang).
 
-- 📌 Incoming Ph.D. student in School of Computing Technologies at RMIT University.
+- 📌 Ph.D. student in the School of Computing Technologies at RMIT University.
 - 🙋‍♂️ M.S. Software Engineering, Chongqing University, Chongqing, China (Jun. 2025); B.S. Engineering, Hunan University of Technology and Business, Changsha, China (Jun. 2022)
 - 🌱 Current research interest includes **Federated Learning (FL), Edge Intelligence, FL for LLM, Network & System Security**.
 - 👀 Please do not hesitate to contact me with any questions.

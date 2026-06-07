@@ -1,4 +1,6 @@
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 👋 Hello, here is kt4ngw (Jian Tang), my page is https://kt4ngw.github.io/.
 
 - 📌 Ph.D. student in the School of Computing Technologies at RMIT University, Melbourne, Australia.

@@ -29,16 +29,29 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          USERNAME: ${{ github.repository_owner }}
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Keep only transparent cards
-        run: |
-          find profile-summary-card-output -mindepth 1 -maxdepth 1 ! -name transparent -exec rm -rf {} +
+      - name: Generate profile-details
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
+          path: profile/profile-details
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top-langs
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide=tex
+          path: profile/top-langs
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |

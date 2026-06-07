@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kt4ngw&show_icons=true&theme=vue&cache_seconds=14400&count_private=True&flag-india" />
+![Stats](./profile/stats.svg)
 👋 Hello, here is kt4ngw (Jian Tang), my page is https://kt4ngw.github.io/.
 
 - 📌 Ph.D. student in the School of Computing Technologies at RMIT University, Melbourne, Australia.

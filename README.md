@@ -10,7 +10,7 @@
 - 👍 Last but not least, to learn & to cope (that's my motto)!
 
 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kt4ngw&theme=transparent"/> | <img align="center" src="profile/top-langs.svg" /> |
+| <img src="profile/profile-details.svg"/> | <img align="center" src="profile/top-langs.svg" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <!--

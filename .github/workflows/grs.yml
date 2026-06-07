@@ -37,6 +37,10 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate profile details card
+        run: |
+          curl -L "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=transparent" -o profile/profile-details.svg
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions"

@@ -1,5 +1,5 @@
 <img align="right" width="420" src="profile/stats.svg" />
-👋 Hello, here is kt4ngw (Jian Tang), my page is https://kt4ngw.github.io/.
+👋 Hello, here is Jian Tang. My page is https://kt4ngw.github.io/.
 
 - 📌 Ph.D. student in the School of Computing Technologies at RMIT University, Melbourne, Australia.
 - 🌱 Current research interests include **Federated Learning (FL), Edge Intelligence, FL for LLM, Network & System Security**.

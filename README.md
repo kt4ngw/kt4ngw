@@ -2,7 +2,7 @@
 👋 Hello, here is Jian Tang. My page is https://kt4ngw.github.io/.
 
 - 📌 Ph.D. student in the School of Computing Technologies at RMIT University, Melbourne, Australia.
-- 🌱 Current research interests include **Federated Learning (FL), Edge Intelligence, FL for LLM, Network & System Security**.
+- 🌱 Current research interests include **Federated Learning (FL), Edge Intelligence, FL for LLM, System Security**.
 - 👀 Please do not hesitate to contact me with any questions.
 - 📧 Email: kt4ngw@gmail.com(mainly). (Please state your affiliation and name and indicate your intention.)
 - ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡

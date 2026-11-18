@@ -3,7 +3,7 @@
 
 - 🔬 Research: parameter-efficient fine-tuning of LLMs (LoRA) on heterogeneous, resource-constrained devices, and its privacy & security.
 - 🌐 Homepage: [kt4ngw.github.io](https://kt4ngw.github.io/)
-- 📧 Email: [kt4ngw@gmail.com](mailto:kt4ngw@gmail.com) — please include your name, affiliation, and purpose.
+- 📧 Happy to chat about research or just make friends — drop me a line at [kt4ngw@gmail.com](mailto:kt4ngw@gmail.com).
 - 💡 Motto: Hope for the best, but prepare for the worst.
 
 

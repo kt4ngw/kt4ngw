@@ -1,12 +1,10 @@
 <img align="right" width="420" src="profile/stats.svg" />
-👋 Hello, here is Jian Tang. My page is https://kt4ngw.github.io/.
+👋 Hi, I'm Jian Tang, a PhD student in the School of Computing Technologies at RMIT University, Melbourne, Australia.
 
-- 📌 Ph.D. student in the School of Computing Technologies at RMIT University, Melbourne, Australia.
-- 🌱 Current research interests include **Federated Learning (FL), Edge Intelligence, FL for LLM, System Security**.
-- 👀 Please do not hesitate to contact me with any questions.
-- 📧 Email: kt4ngw@gmail.com(mainly). (Please state your affiliation and name and indicate your intention.)
-- ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡
-- 👍 Last but not least, to learn & to cope (that's my motto)!
+- 🔬 Research: parameter-efficient fine-tuning of LLMs (LoRA) on heterogeneous, resource-constrained devices, and its privacy & security.
+- 🌐 Homepage: [kt4ngw.github.io](https://kt4ngw.github.io/)
+- 📧 Email: [kt4ngw@gmail.com](mailto:kt4ngw@gmail.com) — please include your name, affiliation, and purpose.
+- 💡 Motto: Hope for the best, but prepare for the worst.
 
 
 | <img src="profile/profile-details.svg"/> | <img align="center" src="profile/top-langs.svg" /> |
